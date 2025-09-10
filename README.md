@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkushS-11
 - 👀 I’m interested in coding, gaming and travel.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on open source RTOS Development.
 
 <!---
 AnkushS-11/AnkushS-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
